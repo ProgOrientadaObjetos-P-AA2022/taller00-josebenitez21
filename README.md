@@ -9,3 +9,4 @@ Loja, una ciudad llena de arte y naturaleza con 400322
 	* Debe analizar las clases de lo paquetes.
 	* La frase se debe formar con la información de los métodos de las clases: Mensaje y Valor.
 	* Solucionar los problemas encontrados.
+Integrantes: José Benítez - José Guerrero
